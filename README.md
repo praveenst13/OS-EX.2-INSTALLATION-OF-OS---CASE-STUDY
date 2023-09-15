@@ -9,8 +9,7 @@ To install an operating system using virtual box.
 2.Download the linux ISO from the linux distribution from its official site.
 
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.wizcase.com%2Fwp-content%2Fuploads%2F2022%2F06%2FGet-Kali-Linux-from-MS-store-autoresized41reY.jpg&tbnid=NvCbw9lRgeT0hM&vet=12ahUKEwjP44SV06uBAxWlkWMGHUOHD_IQMyhhegUIARC6Ag..i&imgrefurl=https%3A%2F%2Fwww.wizcase.com%2Fdownload%2Fkali-linux%2F&docid=0-meNmumHTo6QM&w=650&h=282&q=kali%20linux%20download&client=firefox-b-e&ved=2ahUKEwjP44SV06uBAxWlkWMGHUOHD_IQMyhhegUIARC6Ag)
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PQyqbUMI2LocJ_NSqi8rLOBAqEdsW84Ztg&usqp=CAU)
 3.Install linux using virtual box.
 
 4.Start VirtualBox, and click on the New symbol to create a virtual machine.
@@ -52,4 +51,5 @@ virtual operating system.
 
 
 ## RESULT:
+
 Hence the OS is successfully installed and set up using virtual box.
